@@ -1,3 +1,6 @@
+.idea/
+.DS_Store
+ public/.DS_Store
 
 ###> symfony/framework-bundle ###
 /.env.local
